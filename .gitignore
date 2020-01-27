@@ -1,0 +1,5 @@
+*.db
+*.ipynb
+/venv/
+/.vscode/
+/.ipynb_checkpoints/
